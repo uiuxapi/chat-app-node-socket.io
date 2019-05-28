@@ -1,5 +1,5 @@
 {
-  "name": "quick-chat",
+  "name": "chat-app-node-socket.io",
   "version": "1.0.0",
   "description": "The easiest way to get your message across",
   "main": "app.js",
